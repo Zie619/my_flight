@@ -7,7 +7,7 @@ TWILIO_MSG_SERVICE = 'MG93ea846be13af04244027beb7240e7de'
 TWILIO_ALPHA_SENDER = 'AIe679781f7b9ff40242116c9dec64a97f'
 TWILIO_VERIFIED_NUMBER = '+919892827387'
 MAIL_PROVIDER_SMTP_ADDRESS = 'smtp.gmail.com'
-MY_EMAIL = 'xeliadx@gmail.com'tete
+MY_EMAIL = 'xeliadx@gmail.com'
 MY_PASSWORD = 'kxlvhkzxntkvihnl'
 
 
